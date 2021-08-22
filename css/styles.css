@@ -37,7 +37,6 @@ justify-content: space-between;
 align-items: center;
 background-color: rgb(255, 255, 255);
 position: relative;
-background-image: url("../img/hero.png");
 background-size: auto;
 background-position: bottom;
 height: 80vh;
